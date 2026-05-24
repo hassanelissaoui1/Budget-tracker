@@ -6,6 +6,6 @@ test('App renders without crashing', () => {
   expect(true).toBe(true);
 });
 
-test('App component is defined', () => {
+test('App component is properly defined', () => {
   expect(App).toBeDefined();
 });
